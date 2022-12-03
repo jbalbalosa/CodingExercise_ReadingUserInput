@@ -7,7 +7,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        //Tim's soloution
+        //Tim's solution
         int counter = 0;
         int sum = 0;
         //while(true){
